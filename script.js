@@ -93,7 +93,7 @@
 				globalScore[activePlayer];
 
 			// Si les 100 points sont atteints
-			if (globalScore[activePlayer] >= 15) {
+			if (globalScore[activePlayer] >= 100) {
 
 				//Désigner le vainqueur avec un switch
 				switch(activePlayer){
